@@ -1,0 +1,4583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Q42016IndustrialCompletionsUnderConstruction</name>
+    <description/>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name><![CDATA[Q42016 Industrial Completions & Under Construction]]></name>
+      <Placemark>
+        <name>4005 Cedar Creek Dr</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: CenterPoint Intermodal Center - Elwood<br>Submarket: I-80/Joliet Corridor<br>Size (SF): 1,388,690<br>Type: Build-to-suit<br>User Name: Mars/Wrigley<br>Developer/Owner: CenterPoint Properties<br>Start Date: Q1 2016<br>Scheduled  End Date: Q1 2017<br>Land Area: <br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>CenterPoint Intermodal Center - Elwood</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-80/Joliet Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>1,388,690</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>Mars/Wrigley</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>CenterPoint Properties</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q1 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q1 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.137669,41.447936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2250 Chicago St</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Laraway Crossings Business Park<br>Submarket: I-80/Joliet Corridor<br>Size (SF): 143,560<br>Type: Build-to-suit<br>User Name: Cadence Premier Logistics<br>Developer/Owner: Cadence Premier Logistics<br>Start Date: Q1 2016<br>Scheduled  End Date: Q1 2017<br>Land Area: 44.54<br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Laraway Crossings Business Park</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-80/Joliet Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>143,560</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>Cadence Premier Logistics</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Cadence Premier Logistics</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q1 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q1 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>44.54</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.076187,41.48457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Building 1</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Laraway Crossings Business Park<br>Submarket: I-80/Joliet Corridor<br>Size (SF): 1,250,481<br>Type: Build-to-suit<br>User Name: IKEA<br>Developer/Owner: Ryan Companies<br>Start Date: Q2 2016<br>Scheduled  End Date: Q3 2017<br>Land Area: 71.69<br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Laraway Crossings Business Park</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-80/Joliet Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>1,250,481</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>IKEA</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Ryan Companies</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q3 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>71.69</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.063352,41.485315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3900 Brandon Rd</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: CenterPoint Intermodal Center - Elwood<br>Submarket: I-80/Joliet Corridor<br>Size (SF): 751,769<br>Type: Speculative<br>User Name: <br>Developer/Owner: CenterPoint Properties<br>Start Date: Q2 2016<br>Scheduled  End Date: Q1 2017<br>Land Area: <br>Avail (SF): 751,769<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/3900Brandon-Joliet.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>CenterPoint Intermodal Center - Elwood</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-80/Joliet Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>751,769</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>CenterPoint Properties</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q1 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>751,769</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/3900Brandon-Joliet.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.105413,41.452845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>23700 W Bluff Rd</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Channahon Corporate Center<br>Submarket: I-80/Joliet Corridor<br>Size (SF): 749,554<br>Type: Speculative<br>User Name: <br>Developer/Owner: IDI Gazeley<br>Start Date: Q2 2016<br>Scheduled  End Date: Q1 2017<br>Land Area: 56.36<br>Avail (SF): 749,554<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/23700WBluff-Channahon.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Channahon Corporate Center</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-80/Joliet Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>749,554</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>IDI Gazeley</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q1 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>56.36</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>749,554</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/23700WBluff-Channahon.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.188256,41.438817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3400 Wolf Rd</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Former A.M. Castle facility<br>Submarket: I-290 North<br>Size (SF): 491,089<br>Type: Speculative<br>User Name: <br>Developer/Owner: Panattoni<br>Start Date: Q2 2016<br>Scheduled  End Date: Q1 2017<br>Land Area: 27.8<br>Avail (SF): 491,089<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/3400Wolf-FranklinPark.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Former A.M. Castle facility</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-290 North</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>491,089</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Panattoni</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q1 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>27.8</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>491,089</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/3400Wolf-FranklinPark.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.90627,41.94048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3900 Burwood Dr</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Bridge Point North<br>Submarket: Lake County<br>Size (SF): 400,734<br>Type: Speculative<br>User Name: <br>Developer/Owner: Bridge Development Partners/Hunt Realty/Wanxiang/Globe Corporation<br>Start Date: Q2 2016<br>Scheduled  End Date: Q1 2017<br>Land Area: 20.21<br>Avail (SF): 400,734<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/3900Burwood-Waukegan.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Bridge Point North</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Lake County</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>400,734</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Bridge Development Partners/Hunt Realty/Wanxiang/Globe Corporation</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q1 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>20.21</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>400,734</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/3900Burwood-Waukegan.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.896777,42.328105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1111 Winpak Way</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: LogistiCenter at Sauk Village<br>Submarket: South Suburbs<br>Size (SF): 348,000<br>Type: Building addition<br>User Name: Winpak Portion Packaging Inc.<br>Developer/Owner: Principle Construction Corp.<br>Start Date: Q2 2016<br>Scheduled  End Date: Q2 2017<br>Land Area: 28.9<br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>LogistiCenter at Sauk Village</value>
+          </Data>
+          <Data name="Submarket">
+            <value>South Suburbs</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>348,000</value>
+          </Data>
+          <Data name="Type">
+            <value>Building addition</value>
+          </Data>
+          <Data name="User Name">
+            <value>Winpak Portion Packaging Inc.</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Principle Construction Corp.</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q2 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>28.9</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.592426,41.491297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7280 N Lisbon Rd</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: <br>Submarket: I-80/Joliet Corridor<br>Size (SF): 255,996<br>Type: Build-to-suit<br>User Name: Costco<br>Developer/Owner: Costco<br>Start Date: Q2 2016<br>Scheduled  End Date: Q2 2017<br>Land Area: 137<br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value/>
+          </Data>
+          <Data name="Submarket">
+            <value>I-80/Joliet Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>255,996</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>Costco</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Costco</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q2 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>137</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.43529,41.392339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2500 Enterprise Cir</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: DuPage National Technology Park<br>Submarket: Fox Valley<br>Size (SF): 250,575<br>Type: Building addition<br>User Name: DS Containers (expansion)<br>Developer/Owner: CenterPoint Properties<br>Start Date: Q2 2016<br>Scheduled  End Date: Q1 2017<br>Land Area: 14.55<br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>DuPage National Technology Park</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Fox Valley</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>250,575</value>
+          </Data>
+          <Data name="Type">
+            <value>Building addition</value>
+          </Data>
+          <Data name="User Name">
+            <value>DS Containers (expansion)</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>CenterPoint Properties</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q1 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>14.55</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.259035,41.867256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4150 N Knox Ave</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: <br>Submarket: Chicago North<br>Size (SF): 40,700<br>Type: Speculative<br>User Name: <br>Developer/Owner: Dayton Street Partners/WBS Equities, LLC<br>Start Date: Q2 2016<br>Scheduled  End Date: Q1 2017<br>Land Area: 1.6<br>Avail (SF): 40,700<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/4150NKnox-Chicago.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value/>
+          </Data>
+          <Data name="Submarket">
+            <value>Chicago North</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>40,700</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Dayton Street Partners/WBS Equities, LLC</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q1 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>1.6</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>40,700</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/4150NKnox-Chicago.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.743962,41.956905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>23534 S Central Ave</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Gateway 57 Corporate Park<br>Submarket: Far South Suburbs<br>Size (SF): 1,000,560<br>Type: Build-to-suit<br>User Name: Georgia Pacific<br>Developer/Owner: Venture One Real Estate<br>Start Date: Q3 2016<br>Scheduled  End Date: Q2 2017<br>Land Area: 124.63<br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Gateway 57 Corporate Park</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Far South Suburbs</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>1,000,560</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>Georgia Pacific</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Venture One Real Estate</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q3 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q2 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>124.63</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.750975,41.462347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6521 W Monee Manhattan Rd</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Bailly Ridge Corporate Center<br>Submarket: Far South Suburbs<br>Size (SF): 856,605<br>Type: Build-to-suit<br>User Name: Amazon.com<br>Developer/Owner: Seefried Properties. Inc./USAA Real Estate Company<br>Start Date: Q3 2016<br>Scheduled  End Date: Q2 2017<br>Land Area: 85.5<br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Bailly Ridge Corporate Center</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Far South Suburbs</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>856,605</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>Amazon.com</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Seefried Properties. Inc./USAA Real Estate Company</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q3 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q2 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>85.5</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.770072,41.425765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Highway 142 @ I-94</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: <br>Submarket: Southeast Wisconsin<br>Size (SF): 800,000<br>Type: Build-to-suit<br>User Name: ULINE<br>Developer/Owner: ULINE<br>Start Date: Q3 2016<br>Scheduled  End Date: Q2 2017<br>Land Area: <br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value/>
+          </Data>
+          <Data name="Submarket">
+            <value>Southeast Wisconsin</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>800,000</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>ULINE</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>ULINE</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q3 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q2 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.965541,42.612366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1500 Remington Dr</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Carlow Corporate Center<br>Submarket: I-55 Corridor<br>Size (SF): 615,160<br>Type: Build-to-suit<br>User Name: Best Buy<br>Developer/Owner: Northern Builders<br>Start Date: Q3 2016<br>Scheduled  End Date: Q2 2017<br>Land Area: 38.63<br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Carlow Corporate Center</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-55 Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>615,160</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>Best Buy</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Northern Builders</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q3 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q2 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>38.63</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.138247,41.664322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8418 38th St</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: First Park 94<br>Submarket: Southeast Wisconsin<br>Size (SF): 602,348<br>Type: Speculative<br>User Name: <br>Developer/Owner: First Industrial Realty Trust<br>Start Date: Q3 2016<br>Scheduled  End Date: Q2 2017<br>Land Area: 45.77<br>Avail (SF): 602,348<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/841838th-Somers.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>First Park 94</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Southeast Wisconsin</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>602,348</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>First Industrial Realty Trust</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q3 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q2 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>45.77</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>602,348</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/841838th-Somers.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.910996,42.606969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>775 Logistics Dr</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: <br>Submarket: Rockford Area<br>Size (SF): 336,000<br>Type: Build-to-suit<br>User Name: Yanfeng/Fiat Chrysler<br>Developer/Owner: The Landmark Group<br>Start Date: Q3 2016<br>Scheduled  End Date: Q2 2017<br>Land Area: <br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value/>
+          </Data>
+          <Data name="Submarket">
+            <value>Rockford Area</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>336,000</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>Yanfeng/Fiat Chrysler</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>The Landmark Group</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q3 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q2 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.887798,42.250981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1801 Suncast Ln</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: <br>Submarket: Fox Valley<br>Size (SF): 308,900<br>Type: Building addition<br>User Name: Suncast Corporation<br>Developer/Owner: Suncast Corporation<br>Start Date: Q3 2016<br>Scheduled  End Date: Q1 2017<br>Land Area: 60<br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value/>
+          </Data>
+          <Data name="Submarket">
+            <value>Fox Valley</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>308,900</value>
+          </Data>
+          <Data name="Type">
+            <value>Building addition</value>
+          </Data>
+          <Data name="User Name">
+            <value>Suncast Corporation</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Suncast Corporation</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q3 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q1 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>60</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.268161,41.865235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1100-1150 W Airport Rd</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Romeoville Business Center<br>Submarket: I-55 Corridor<br>Size (SF): 282,886<br>Type: Speculative<br>User Name: <br>Developer/Owner: Seefried Industrial Properties, Inc.<br>Start Date: Q3 2016<br>Scheduled  End Date: Q2 2017<br>Land Area: 17.02<br>Avail (SF): 282,886<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/1100-1150WAirport-Romeoville.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Romeoville Business Center</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-55 Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>282,886</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Seefried Industrial Properties, Inc.</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q3 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q2 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>17.02</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>282,886</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/1100-1150WAirport-Romeoville.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.115219,41.610901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2302 S Paulina St</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Building 2<br>Submarket: Chicago South<br>Size (SF): 227,043<br>Type: Build-to-suit<br>User Name: Preferred Freezer<br>Developer/Owner: Clarius Partners /Wanxiang America Real Estate<br>Start Date: Q3 2016<br>Scheduled  End Date: Q2 2017<br>Land Area: <br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Building 2</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Chicago South</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>227,043</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>Preferred Freezer</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Clarius Partners /Wanxiang America Real Estate</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q3 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q2 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.66967,41.848783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>85 NW Point Blvd</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: <br>Submarket: O'Hare<br>Size (SF): 175,982<br>Type: Build-to-suit<br>User Name: MC Machinery Systems (Mitsubishi)<br>Developer/Owner: MC Machinery Systems<br>Start Date: Q3 2016<br>Scheduled  End Date: Q1 2017<br>Land Area: 19<br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value/>
+          </Data>
+          <Data name="Submarket">
+            <value><![CDATA[O'Hare]]></value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>175,982</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>MC Machinery Systems (Mitsubishi)</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>MC Machinery Systems</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q3 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q1 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>19</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.973923,42.033852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4800 S Central Ave</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: <br>Submarket: I-290 South<br>Size (SF): 172,000<br>Type: Build-to-suit<br>User Name: FedEx<br>Developer/Owner: DCT Industrial<br>Start Date: Q3 2016<br>Scheduled  End Date: Q2 2017<br>Land Area: 53.6<br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value/>
+          </Data>
+          <Data name="Submarket">
+            <value>I-290 South</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>172,000</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>FedEx</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>DCT Industrial</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q3 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q2 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>53.6</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.765048,41.804853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1411-1415 Brewster Creek Blvd</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Brewster Creek Business Park<br>Submarket: Northwest Suburbs<br>Size (SF): 167,500<br>Type: Speculative<br>User Name: <br>Developer/Owner: Greco &amp; Sons<br>Start Date: Q3 2016<br>Scheduled  End Date: Q2 2017<br>Land Area: <br>Avail (SF): 167,500<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/1411-1415BrewsterCreek-Bartlett.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Brewster Creek Business Park</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Northwest Suburbs</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>167,500</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value><![CDATA[Greco &amp; Sons]]></value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q3 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q2 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>167,500</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/1411-1415BrewsterCreek-Bartlett.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.230224,41.981152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3499 S Chicago Ave</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Speedway Logistics Center<br>Submarket: I-80/Joliet Corridor<br>Size (SF): 200,000<br>Type: Build-to-suit<br>User Name: CAP Barbell Inc<br>Developer/Owner: CAP Barbell Inc<br>Start Date: Q4 2016<br>Scheduled  End Date: Q2 2017<br>Land Area: <br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Speedway Logistics Center</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-80/Joliet Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>200,000</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>CAP Barbell Inc</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>CAP Barbell Inc</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q2 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.081673,41.461428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1400 W 44th St</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: <br>Submarket: Chicago South<br>Size (SF): 166,370<br>Type: Speculative<br>User Name: <br>Developer/Owner: DCT Industrial<br>Start Date: Q3 2016<br>Scheduled  End Date: Q1 2017<br>Land Area: 9.98<br>Avail (SF): 166,370<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/1400W44th-Chicago.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value/>
+          </Data>
+          <Data name="Submarket">
+            <value>Chicago South</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>166,370</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>DCT Industrial</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q3 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q1 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>9.98</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>166,370</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/1400W44th-Chicago.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.662096,41.814912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>850 Asbury Dr</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Corporate Grove Business Park<br>Submarket: Lake County<br>Size (SF): 157,500<br>Type: Speculative<br>User Name: <br>Developer/Owner: Ridgeline Property Group<br>Start Date: Q3 2016<br>Scheduled  End Date: Q1 2017<br>Land Area: 11.82<br>Avail (SF): 157,500<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/850Asbury-BuffaloGrove.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Corporate Grove Business Park</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Lake County</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>157,500</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Ridgeline Property Group</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q3 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q1 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>11.82</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>157,500</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/850Asbury-BuffaloGrove.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.941704,42.176004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10700 S Doty Ave</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Whole Foods Distribution Center<br>Submarket: Chicago South<br>Size (SF): 140,000<br>Type: Build-to-suit<br>User Name: Whole Foods<br>Developer/Owner: Unknown<br>Start Date: Q3 2016<br>Scheduled  End Date: Q3 2017<br>Land Area: 16.5<br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Whole Foods Distribution Center</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Chicago South</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>140,000</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>Whole Foods</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Unknown</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q3 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q3 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>16.5</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.60044,41.69955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Slade Dr</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Blue Heron Business Park<br>Submarket: Northwest Suburbs<br>Size (SF): 80,000<br>Type: Build-to-suit<br>User Name: Elgin Beverage Company<br>Developer/Owner: FCL Builders<br>Start Date: Q3 2016<br>Scheduled  End Date: Q1 2017<br>Land Area: 14.88<br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Blue Heron Business Park</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Northwest Suburbs</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>80,000</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>Elgin Beverage Company</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>FCL Builders</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q3 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q1 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>14.88</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.267135,41.995976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Huntington Blvd</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Huntington 90 Business Park - Trumpt Technology Center<br>Submarket: Northwest Suburbs<br>Size (SF): 56,297<br>Type: Build-to-suit<br>User Name: TRUMPF<br>Developer/Owner: Conor Commercial<br>Start Date: Q3 2016<br>Scheduled  End Date: Q3 2017<br>Land Area: 3.86<br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Huntington 90 Business Park - Trumpt Technology Center</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Northwest Suburbs</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>56,297</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>TRUMPF</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Conor Commercial</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q3 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q3 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>3.86</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.12426,42.067701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1100 Bilter Rd</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: <br>Submarket: I-88 Corridor<br>Size (SF): 40,000<br>Type: Building addition<br>User Name: Planes &amp; Sabatalo Enterprises, Ltd.<br>Developer/Owner: United Construction Midwest<br>Start Date: Q3 2016<br>Scheduled  End Date: Q1 2017<br>Land Area: <br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value/>
+          </Data>
+          <Data name="Submarket">
+            <value>I-88 Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>40,000</value>
+          </Data>
+          <Data name="Type">
+            <value>Building addition</value>
+          </Data>
+          <Data name="User Name">
+            <value><![CDATA[Planes &amp; Sabatalo Enterprises, Ltd.]]></value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>United Construction Midwest</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q3 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q1 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.290588,41.808087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1002 Wesemann Dr</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Oakview Business Park<br>Submarket: Elgin I-90<br>Size (SF): 23,400<br>Type: Build-to-suit<br>User Name: Oelheld USA<br>Developer/Owner: Opus Group<br>Start Date: Q3 2016<br>Scheduled  End Date: Q1 2017<br>Land Area: <br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Oakview Business Park</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Elgin I-90</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>23,400</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>Oelheld USA</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Opus Group</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q3 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q1 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.350991,42.107986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[I-55 & Lorenzo Rd]]></name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Rigeport Logistics Center<br>Submarket: I-80/Joliet Corridor<br>Size (SF): 1,507,545<br>Type: Build-to-suit<br>User Name: General Mills Operations<br>Developer/Owner: Ridge Property Trust<br>Start Date: Q4 2016<br>Scheduled  End Date: Q3 2017<br>Land Area: <br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Rigeport Logistics Center</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-80/Joliet Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>1,507,545</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>General Mills Operations</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Ridge Property Trust</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q3 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.194888,41.337393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Laraway Rd & Rowell Ave]]></name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Core5 Logistics Center I-80<br>Submarket: I-80/Joliet Corridor<br>Size (SF): 1,026,000<br>Type: Speculative<br>User Name: <br>Developer/Owner: Core5 Industrial Partners<br>Start Date: Q4 2016<br>Scheduled  End Date: Q2 2017<br>Land Area: 71.25<br>Avail (SF): 1,026,000<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Core5LogisticsCenter-Joliet.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Core5 Logistics Center I-80</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-80/Joliet Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>1,026,000</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Core5 Industrial Partners</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q2 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>71.25</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>1,026,000</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Core5LogisticsCenter-Joliet.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.05591,41.484155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>100 E Millsdale Rd</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Joliet Logistics Park<br>Submarket: I-80/Joliet Corridor<br>Size (SF): 992,640<br>Type: Speculative<br>User Name: <br>Developer/Owner: Hillwood<br>Start Date: Q4 2016<br>Scheduled  End Date: Q3 2017<br>Land Area: 84.86<br>Avail (SF): 992,640<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/100EMillsdale-Joliet.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Joliet Logistics Park</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-80/Joliet Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>992,640</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Hillwood</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q3 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>84.86</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>992,640</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/100EMillsdale-Joliet.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.073559,41.449953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1 Duke Pky</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Butterfield Corporate Park<br>Submarket: I-88 Corridor<br>Size (SF): 954,720<br>Type: Speculative<br>User Name: Amazon.com<br>Developer/Owner: Duke Realty Corporation<br>Start Date: Q4 2016<br>Scheduled  End Date: Q3 2017<br>Land Area: 47.18<br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Butterfield Corporate Park</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-88 Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>954,720</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value>Amazon.com</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Duke Realty Corporation</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q3 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>47.18</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.212116,41.814894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S Graaskamp Blvd</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: RidgePort Logistics Center<br>Submarket: I-80/Joliet Corridor<br>Size (SF): 810,900<br>Type: Speculative<br>User Name: <br>Developer/Owner: Ridge Property Trust<br>Start Date: Q4 2016<br>Scheduled  End Date: Q3 2017<br>Land Area: <br>Avail (SF): 810,900<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/SGraaskamp-Wilmington.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>RidgePort Logistics Center</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-80/Joliet Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>810,900</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Ridge Property Trust</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q3 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>810,900</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/SGraaskamp-Wilmington.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.20785,41.337258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1323 Brewster Creek Blvd</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Brewster Creek Business Park<br>Submarket: Northwest Suburbs<br>Size (SF): 421,403<br>Type: Speculative<br>User Name: <br>Developer/Owner: Exeter Property Group<br>Start Date: Q4 2016<br>Scheduled  End Date: Q3 2017<br>Land Area: <br>Avail (SF): 421,403<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/1323BrewsterCreek-Bartlett.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Brewster Creek Business Park</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Northwest Suburbs</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>421,403</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Exeter Property Group</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q3 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>421,403</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/1323BrewsterCreek-Bartlett.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.223509,41.982859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>365 E North Ave</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: <br>Submarket: Central DuPage<br>Size (SF): 381,600<br>Type: Speculative<br>User Name: <br>Developer/Owner: Dermody Properties<br>Start Date: Q4 2016<br>Scheduled  End Date: Q2 2017<br>Land Area: 28.12<br>Avail (SF): 381,600<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/365ENorth-CarolStream.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value/>
+          </Data>
+          <Data name="Submarket">
+            <value>Central DuPage</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>381,600</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Dermody Properties</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q2 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>28.12</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>381,600</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/365ENorth-CarolStream.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.107957,41.903699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14630 S 147th St</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Heritage Crossing Corporate Center #6<br>Submarket: I-55 Corridor<br>Size (SF): 371,994<br>Type: Speculative<br>User Name: <br>Developer/Owner: ML Realty Partners<br>Start Date: Q4 2016<br>Scheduled  End Date: Q2 2017<br>Land Area: 28.6<br>Avail (SF): 371,994<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/14630S147th-Lockport.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Heritage Crossing Corporate Center #6</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-55 Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>371,994</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>ML Realty Partners</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q2 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>28.6</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>371,994</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/14630S147th-Lockport.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.009708,41.62131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carlow XVI</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Carlow Corporate Center West<br>Submarket: I-55 Corridor<br>Size (SF): 302,354<br>Type: Speculative<br>User Name: <br>Developer/Owner: Northern Builders<br>Start Date: Q4 2016<br>Scheduled  End Date: Q3 2017<br>Land Area: 17.807<br>Avail (SF): 302,354<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/Carlow16-SitePlan.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Carlow Corporate Center West</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-55 Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>302,354</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Northern Builders</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q3 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>17.807</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>302,354</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/Carlow16-SitePlan.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.135892,41.658508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16534 S John Lane Crossing</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: 355 Corporate Park<br>Submarket: I-55 Corridor<br>Size (SF): 300,494<br>Type: Speculative<br>User Name: <br>Developer/Owner: Panattoni Development Company<br>Start Date: Q4 2016<br>Scheduled  End Date: Q2 2017<br>Land Area: <br>Avail (SF): 300,494<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/16534SJohnLaneCrossing-Lockport.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>355 Corporate Park</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-55 Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>300,494</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Panattoni Development Company</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q2 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>300,494</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/16534SJohnLaneCrossing-Lockport.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.003526,41.586839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15901 W 147th St</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Heritage Crossing Corporate Center #9<br>Submarket: I-55 Corridor<br>Size (SF): 293,790<br>Type: Speculative<br>User Name: <br>Developer/Owner: ML Realty Partners<br>Start Date: Q4 2016<br>Scheduled  End Date: Q2 2017<br>Land Area: 19.93<br>Avail (SF): 293,790<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/15901W147th-Lockport.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Heritage Crossing Corporate Center #9</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-55 Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>293,790</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>ML Realty Partners</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q2 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>19.93</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>293,790</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/15901W147th-Lockport.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.005528,41.619097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1200 N Schmidt Rd</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: <br>Submarket: I-55 Corridor<br>Size (SF): 271,700<br>Type: Speculative<br>User Name: <br>Developer/Owner: Venture One Real Estate<br>Start Date: Q4 2016<br>Scheduled  End Date: Q3 2017<br>Land Area: 16.86<br>Avail (SF): 271,700<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/1200NSchmidt-Romeoville.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value/>
+          </Data>
+          <Data name="Submarket">
+            <value>I-55 Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>271,700</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Venture One Real Estate</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q3 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>16.86</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>271,700</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/1200NSchmidt-Romeoville.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.089027,41.666465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>26634 S Walton Dr</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: CenterPoint Intermodal Center - Elwood<br>Submarket: I-80/Joliet Corridor<br>Size (SF): 237,200<br>Type: Speculative<br>User Name: <br>Developer/Owner: CenterPoint Properties<br>Start Date: Q4 2016<br>Scheduled  End Date: Q2 2017<br>Land Area: <br>Avail (SF): 237,200<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/26634SWalton-Elwood.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>CenterPoint Intermodal Center - Elwood</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-80/Joliet Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>237,200</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>CenterPoint Properties</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q2 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>237,200</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/26634SWalton-Elwood.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.132781,41.405923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tripp Road</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: <br>Submarket: Rockford Area<br>Size (SF): 220,000<br>Type: Build-to-suit<br>User Name: Magna International Inc.<br>Developer/Owner: Becknell Industrial<br>Start Date: Q4 2016<br>Scheduled  End Date: Q3 2017<br>Land Area: <br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value/>
+          </Data>
+          <Data name="Submarket">
+            <value>Rockford Area</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>220,000</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>Magna International Inc.</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Becknell Industrial</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q3 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.82445,42.235108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7879 Lemont Rd</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: <br>Submarket: I-55 Corridor<br>Size (SF): 185,600<br>Type: Speculative<br>User Name: <br>Developer/Owner: Panattoni<br>Start Date: Q4 2016<br>Scheduled  End Date: Q2 2017<br>Land Area: 11.66<br>Avail (SF): 185,600<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/7879Lemont-Darien.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value/>
+          </Data>
+          <Data name="Submarket">
+            <value>I-55 Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>185,600</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Panattoni</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q2 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>11.66</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>185,600</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/7879Lemont-Darien.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.011109,41.744891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14555 S Gougar Rd</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Heritage Crossing Corporate Center #3<br>Submarket: I-55 Corridor<br>Size (SF): 181,011<br>Type: Speculative<br>User Name: <br>Developer/Owner: ML Realty Partners<br>Start Date: Q4 2016<br>Scheduled  End Date: Q2 2017<br>Land Area: <br>Avail (SF): 181,011<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/14555SGougar-Lockport.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Heritage Crossing Corporate Center #3</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-55 Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>181,011</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>ML Realty Partners</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q2 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>181,011</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/14555SGougar-Lockport.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.004219,41.622102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2302 S Paulina St</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Building 1<br>Submarket: Chicago South<br>Size (SF): 162,000<br>Type: Speculative<br>User Name: <br>Developer/Owner: Clarius Partners /Wanxiang America Real Estate<br>Start Date: Q4 2016<br>Scheduled  End Date: Q3 2017<br>Land Area: <br>Avail (SF): 162,000<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/2302SPaulinaBldg1-Chicago.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Building 1</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Chicago South</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>162,000</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Clarius Partners /Wanxiang America Real Estate</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q3 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>162,000</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/2302SPaulinaBldg1-Chicago.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.671419,41.846376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>56 Paragon Dr</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: Paragon Business Park<br>Submarket: I-55 Corridor<br>Size (SF): 150,000<br>Type: Speculative<br>User Name: <br>Developer/Owner: Duke Realty Corporation<br>Start Date: Q4 2016<br>Scheduled  End Date: Q3 2017<br>Land Area: 9.188<br>Avail (SF): 150,000<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/56NParagon-Romeoville.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Paragon Business Park</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-55 Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>150,000</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Duke Realty Corporation</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q3 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>9.188</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>150,000</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/56NParagon-Romeoville.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.096547,41.626511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1200-1250 Douglas Rd</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: <br>Submarket: Fox Valley<br>Size (SF): 137,573<br>Type: Speculative<br>User Name: <br>Developer/Owner: HSA Commercial Real Estate<br>Start Date: Q4 2016<br>Scheduled  End Date: Q2 2017<br>Land Area: 5.44<br>Avail (SF): 137,573<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/1200-1250Douglas-Batavia.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value/>
+          </Data>
+          <Data name="Submarket">
+            <value>Fox Valley</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>137,573</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>HSA Commercial Real Estate</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q2 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>5.44</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>137,573</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/1200-1250Douglas-Batavia.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.283365,41.86124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7720 N Lehigh Ave</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: <br>Submarket: North Suburbs<br>Size (SF): 135,650<br>Type: Speculative<br>User Name: <br>Developer/Owner: Molto Capital<br>Start Date: Q4 2016<br>Scheduled  End Date: Q2 2017<br>Land Area: 8.18<br>Avail (SF): 135,650<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/7720NLehigh-Niles.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value/>
+          </Data>
+          <Data name="Submarket">
+            <value>North Suburbs</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>135,650</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Molto Capital</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q2 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>8.18</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>135,650</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/7720NLehigh-Niles.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.779756,42.021906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9655 Soreng Ave</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: <br>Submarket: I-290 North<br>Size (SF): 84,700<br>Type: Speculative<br>User Name: <br>Developer/Owner: Bridge Development Partners<br>Start Date: Q4 2016<br>Scheduled  End Date: Q3 2017<br>Land Area: 9.91<br>Avail (SF): 84,700<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/9655Soreng-SchillerPark.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value/>
+          </Data>
+          <Data name="Submarket">
+            <value>I-290 North</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>84,700</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Bridge Development Partners</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q3 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>9.91</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>84,700</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/9655Soreng-SchillerPark.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.866855,41.950703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9555 Soreng Ave</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: <br>Submarket: I-290 North<br>Size (SF): 72,825<br>Type: Speculative<br>User Name: <br>Developer/Owner: Bridge Development Partners<br>Start Date: Q4 2016<br>Scheduled  End Date: Q3 2017<br>Land Area: 9.91<br>Avail (SF): 72,825<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/9555Soreng-SchillerPark.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value/>
+          </Data>
+          <Data name="Submarket">
+            <value>I-290 North</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>72,825</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Bridge Development Partners</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q3 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>9.91</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>72,825</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/9555Soreng-SchillerPark.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.867718,41.950663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kostner Ave</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: <br>Submarket: South Suburbs<br>Size (SF): 70,000<br>Type: Build-to-suit<br>User Name: Valley View Industries<br>Developer/Owner: Valley View Industries<br>Start Date: Q4 2016<br>Scheduled  End Date: Q2 2017<br>Land Area: <br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value/>
+          </Data>
+          <Data name="Submarket">
+            <value>South Suburbs</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>70,000</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>Valley View Industries</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Valley View Industries</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q2 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.72676,41.642304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>913 Tower Rd</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: <br>Submarket: Lake County<br>Size (SF): 42,537<br>Type: Build-to-suit<br>User Name: Reinders, Inc.<br>Developer/Owner: Reinders, Inc.<br>Start Date: Q4 2016<br>Scheduled  End Date: Q1 2017<br>Land Area: 6.37<br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value/>
+          </Data>
+          <Data name="Submarket">
+            <value>Lake County</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>42,537</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>Reinders, Inc.</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Reinders, Inc.</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q1 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>6.37</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.988019,42.251261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>130 Arrowhead Dr</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: <br>Submarket: Elgin I-90<br>Size (SF): 32,850<br>Type: Speculative<br>User Name: Precision Fleet Service Solutions<br>Developer/Owner: <br>Start Date: Q4 2016<br>Scheduled  End Date: Q2 2017<br>Land Area: <br>Avail (SF): 16,425<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/130ArrowheadHampshire.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value/>
+          </Data>
+          <Data name="Submarket">
+            <value>Elgin I-90</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>32,850</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value>Precision Fleet Service Solutions</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value/>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q2 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>16,425</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/130ArrowheadHampshire.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.509064,42.148891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1609 SE Frontage Rd</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: <br>Submarket: Southeast Wisconsin<br>Size (SF): 29,775<br>Type: Build-to-suit<br>User Name: Brooks Tractor<br>Developer/Owner: Brooks Incorporate<br>Start Date: Q4 2016<br>Scheduled  End Date: Q1 2017<br>Land Area: 10.17<br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value/>
+          </Data>
+          <Data name="Submarket">
+            <value>Southeast Wisconsin</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>29,775</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>Brooks Tractor</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Brooks Incorporate</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q1 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value>10.17</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.950543,42.633984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2135 Point Blvd</name>
+        <description><![CDATA[description: <br>Status: Under Construction<br>Business Park: <br>Submarket: Elgin I-90<br>Size (SF): 25,000<br>Type: Build-to-suit<br>User Name: Fabric &amp; Manufacturing Association International<br>Developer/Owner: Fabric &amp; Manufacturing Association International<br>Start Date: Q4 2016<br>Scheduled  End Date: Q3 2017<br>Land Area: <br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Under Construction</value>
+          </Data>
+          <Data name="Business Park">
+            <value/>
+          </Data>
+          <Data name="Submarket">
+            <value>Elgin I-90</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>25,000</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value><![CDATA[Fabric &amp; Manufacturing Association International]]></value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value><![CDATA[Fabric &amp; Manufacturing Association International]]></value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q3 2017</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.327629,42.078447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1101 W Airport Rd</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: Southcreek Corporate Center<br>Submarket: I-55 Corridor<br>Size (SF): 787,499<br>Type: Speculative<br>User Name: <br>Developer/Owner: Panattoni<br>Start Date: Q2 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: 76.23<br>Avail (SF): 787,499<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/1101WAirport-Romeoville.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Southcreek Corporate Center</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-55 Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>787,499</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Panattoni</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value>76.23</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>787,499</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/1101WAirport-Romeoville.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.115876,41.607884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24827 Lorenzo Rd</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: RidgePort Logistics Center<br>Submarket: I-80/Joliet Corridor<br>Size (SF): 678,000<br>Type: Build-to-suit<br>User Name: Batory Foods<br>Developer/Owner: Batory Foods<br>Start Date: Q2 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: 36<br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>RidgePort Logistics Center</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-80/Joliet Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>678,000</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>Batory Foods</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Batory Foods</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value>36</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.208295,41.34342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8801 88th Ave</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: Majestic Badger Logistics Center<br>Submarket: Southeast Wisconsin<br>Size (SF): 424,164<br>Type: Speculative<br>User Name: <br>Developer/Owner: Majestic Realty Co.<br>Start Date: Q3 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: 88.34<br>Avail (SF): 424,164<br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Majestic Badger Logistics Center</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Southeast Wisconsin</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>424,164</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Majestic Realty Co.</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q3 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value>88.34</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>424,164</value>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.911327,42.546912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>50 Southcreek Pky</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: Pinnacle Business Center<br>Submarket: I-55 Corridor<br>Size (SF): 416,504<br>Type: Speculative<br>User Name: <br>Developer/Owner: Pizzuti<br>Start Date: Q2 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: 22.44<br>Avail (SF): 416,504<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/TaylorRdSouthcreek-Romeoville.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Pinnacle Business Center</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-55 Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>416,504</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Pizzuti</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value>22.44</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>416,504</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/TaylorRdSouthcreek-Romeoville.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.105782,41.623373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2601 Galvin Dr</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: Northwest Corporate Park<br>Submarket: Elgin I-90<br>Size (SF): 385,372<br>Type: Speculative<br>User Name: <br>Developer/Owner: Conor Commercial<br>Start Date: Q2 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: <br>Avail (SF): 385,372<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/2601Galvin-Elgin.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Northwest Corporate Park</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Elgin I-90</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>385,372</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Conor Commercial</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>385,372</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/2601Galvin-Elgin.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.343647,42.099016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10501 Seymour Ave</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: O'Hare Crossings (Former Central Grocers site)<br>Submarket: I-290 North<br>Size (SF): 367,389<br>Type: Speculative<br>User Name: <br>Developer/Owner: Molto Capital/RREEF<br>Start Date: Q2 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: 17.78<br>Avail (SF): 367,389<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/10501Seymour-FranklinPark.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value><![CDATA[O'Hare Crossings (Former Central Grocers site)]]></value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-290 North</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>367,389</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Molto Capital/RREEF</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value>17.78</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>367,389</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/10501Seymour-FranklinPark.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.890204,41.949425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>29900 S Graaskamp Blvd</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: RidgePort Logistics Center<br>Submarket: I-80/Joliet Corridor<br>Size (SF): 330,000<br>Type: Build-to-suit<br>User Name: Michelin<br>Developer/Owner: Ridge Property Trust<br>Start Date: Q2 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: <br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>RidgePort Logistics Center</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-80/Joliet Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>330,000</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>Michelin</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Ridge Property Trust</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.201748,41.341449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2801 Alft Ln</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: Randall Crossings<br>Submarket: Elgin I-90<br>Size (SF): 308,553<br>Type: Speculative<br>User Name: <br>Developer/Owner: Northern Builders<br>Start Date: Q2 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: 18.65<br>Avail (SF): 308,553<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/2801Alft-Elgin.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Randall Crossings</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Elgin I-90</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>308,553</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Northern Builders</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value>18.65</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>308,553</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/2801Alft-Elgin.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.348268,42.073938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7225 Santa Fe Dr</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: <br>Submarket: I-290 South<br>Size (SF): 282,933<br>Type: Speculative<br>User Name: <br>Developer/Owner: Cabot/Seefried<br>Start Date: Q2 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: 15<br>Avail (SF): 282,933<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/7225SantaFe-Hodgkins.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value/>
+          </Data>
+          <Data name="Submarket">
+            <value>I-290 South</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>282,933</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Cabot/Seefried</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value>15</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>282,933</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/7225SantaFe-Hodgkins.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.863153,41.75699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2650 Auto Mall Dr</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: Northwest Corporate Park<br>Submarket: Elgin I-90<br>Size (SF): 257,313<br>Type: Speculative<br>User Name: <br>Developer/Owner: Zilber Property Group<br>Start Date: Q3 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: <br>Avail (SF): 257,313<br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Northwest Corporate Park</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Elgin I-90</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>257,313</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Zilber Property Group</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q3 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>257,313</value>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.341276,42.087874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>21335 W Division St</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: Crest Hill Industrial Park<br>Submarket: I-55 Corridor<br>Size (SF): 214,753<br>Type: Build-to-suit<br>User Name: Rich's Foods<br>Developer/Owner: Rich's Foods<br>Start Date: Q4 2015<br>Scheduled  End Date: Q4 2016<br>Land Area: <br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Crest Hill Industrial Park</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-55 Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>214,753</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value><![CDATA[Rich's Foods]]></value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value><![CDATA[Rich's Foods]]></value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2015</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.136197,41.578793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1101 Cherry Hill Rd</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: Cherry Hill Industrial Park<br>Submarket: I-80/Joliet Corridor<br>Size (SF): 201,700<br>Type: Building addition<br>User Name: Joliet Cold Storage<br>Developer/Owner: Joliet Cold Storage<br>Start Date: Q2 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: <br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Cherry Hill Industrial Park</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-80/Joliet Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>201,700</value>
+          </Data>
+          <Data name="Type">
+            <value>Building addition</value>
+          </Data>
+          <Data name="User Name">
+            <value>Joliet Cold Storage</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Joliet Cold Storage</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.025096,41.507571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10490 88th Ave</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: Lakeview Corporate Park<br>Submarket: Southeast Wisconsin<br>Size (SF): 200,696<br>Type: Speculative<br>User Name: <br>Developer/Owner: CenterPoint Properties<br>Start Date: Q2 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: 12.02<br>Avail (SF): 200,696<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/1049088th-PleasantPrairie.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Lakeview Corporate Park</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Southeast Wisconsin</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>200,696</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>CenterPoint Properties</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value>12.02</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>200,696</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/1049088th-PleasantPrairie.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.914211,42.522084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>208-238 S Pinnacle Dr - Building 1</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: Romeoville Commerce Center<br>Submarket: I-55 Corridor<br>Size (SF): 199,924<br>Type: Speculative<br>User Name: <br>Developer/Owner: Hillwood<br>Start Date: Q4 2015<br>Scheduled  End Date: Q4 2016<br>Land Area: <br>Avail (SF): 199,924<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/208-238SPinnacleBldg1-Romeoville.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Romeoville Commerce Center</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-55 Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>199,924</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Hillwood</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2015</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>199,924</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/208-238SPinnacleBldg1-Romeoville.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.115006,41.617741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>208-238 S Pinnacle Dr - Building 2</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: Romeoville Commerce Center<br>Submarket: I-55 Corridor<br>Size (SF): 199,924<br>Type: Speculative<br>User Name: <br>Developer/Owner: Hillwood<br>Start Date: Q4 2015<br>Scheduled  End Date: Q4 2016<br>Land Area: <br>Avail (SF): 199,924<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/208-238SPinnacleBldg2-Romeoville.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Romeoville Commerce Center</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-55 Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>199,924</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Hillwood</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2015</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>199,924</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/208-238SPinnacleBldg2-Romeoville.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.11711,41.617636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1501 Commerce Dr</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: Montgomery Rail Center<br>Submarket: I-88 Corridor<br>Size (SF): 194,260<br>Type: Build-to-suit<br>User Name: Nexeo Solutions<br>Developer/Owner: TCB Development/Pritzker Realty Group<br>Start Date: Q3 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: 18.84<br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Montgomery Rail Center</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-88 Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>194,260</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>Nexeo Solutions</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>TCB Development/Pritzker Realty Group</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q3 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value>18.84</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.357728,41.733703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11333 Addison Ave</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: Franklin Park Rail Center<br>Submarket: I-290 North<br>Size (SF): 194,260<br>Type: Speculative<br>User Name: <br>Developer/Owner: Pritzker<br>Start Date: Q2 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: <br>Avail (SF): 194,260<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/11333Addison-FranklinPark.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Franklin Park Rail Center</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-290 North</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>194,260</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Pritzker</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>194,260</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/11333Addison-FranklinPark.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.910247,41.941978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1200 Equity Dr</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: East Kirk Commerce Center<br>Submarket: Fox Valley<br>Size (SF): 180,121<br>Type: Build-to-suit<br>User Name: AJR Filtration<br>Developer/Owner: Venture One Real Estate<br>Start Date: Q4 2015<br>Scheduled  End Date: Q4 2016<br>Land Area: 15<br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>East Kirk Commerce Center</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Fox Valley</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>180,121</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>AJR Filtration</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Venture One Real Estate</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2015</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value>15</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.275345,41.902241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>270 Madsen Dr</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: Bloomingdale Corporate Center<br>Submarket: Central DuPage<br>Size (SF): 154,000<br>Type: Speculative<br>User Name: <br>Developer/Owner: IDI Gazeley<br>Start Date: Q2 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: 9.84<br>Avail (SF): 154,000<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/270Madsen-Bloomingdale.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Bloomingdale Corporate Center</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Central DuPage</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>154,000</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>IDI Gazeley</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value>9.84</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>154,000</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/270Madsen-Bloomingdale.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.137739,41.94433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2141 Internationale Pky</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: Park 355 Phase III<br>Submarket: I-55 Corridor<br>Size (SF): 152,112<br>Type: Speculative<br>User Name: Cort Furniture<br>Developer/Owner: HSA Commercial Real Estate<br>Start Date: Q2 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: 9.68<br>Avail (SF): 96,112<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/2141Internationale-Woodridge.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Park 355 Phase III</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-55 Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>152,112</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value>Cort Furniture</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>HSA Commercial Real Estate</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value>9.68</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>96,112</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/2141Internationale-Woodridge.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.031515,41.688568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Woodward Ave</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: Union Pointe<br>Submarket: I-55 Corridor<br>Size (SF): 145,200<br>Type: Build-to-suit<br>User Name: AMS Mechanical Systems<br>Developer/Owner: Conor Commercial<br>Start Date: Q2 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: 10.6<br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Union Pointe</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-55 Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>145,200</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>AMS Mechanical Systems</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Conor Commercial</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value>10.6</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.028168,41.711864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1001 Wesemann Dr</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: Oakview Corporate Park<br>Submarket: Elgin I-90<br>Size (SF): 133,000<br>Type: Build-to-suit<br>User Name: Renishaw Tool<br>Developer/Owner: Opus Group<br>Start Date: Q4 2015<br>Scheduled  End Date: Q4 2016<br>Land Area: 12.79<br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Oakview Corporate Park</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Elgin I-90</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>133,000</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>Renishaw Tool</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Opus Group</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q4 2015</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value>12.79</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.347865,42.109726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12455 Jim Dhamer Dr</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: Huntley Corporate Park<br>Submarket: Elgin I-90<br>Size (SF): 117,441<br>Type: Build-to-suit<br>User Name: Hiwin Corp.<br>Developer/Owner: Hiwin Corp.<br>Start Date: Q2 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: <br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Huntley Corporate Park</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Elgin I-90</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>117,441</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value>Hiwin Corp.</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Hiwin Corp.</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.440917,42.128196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1325 Remington Blvd</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: Remington Corporate Center<br>Submarket: I-55 Corridor<br>Size (SF): 112,049<br>Type: Speculative<br>User Name: Computershare<br>Developer/Owner: Opus Group<br>Start Date: Q2 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: 8.77<br>Avail (SF): 67,692<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/1325Remington-Bolingbrook.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Remington Corporate Center</value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-55 Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>112,049</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value>Computershare</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Opus Group</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value>8.77</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>67,692</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/1325Remington-Bolingbrook.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.128151,41.661252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2400 E County Road P</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: Wisconsin Stateline Industrial Park<br>Submarket: Rockford Area<br>Size (SF): 105,000<br>Type: Speculative<br>User Name: <br>Developer/Owner: Hendricks Commercial Properties<br>Start Date: Q2 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: 31.59<br>Avail (SF): 105,000<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/WisconsinStatelineIndustPrk-Beloit.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Wisconsin Stateline Industrial Park</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Rockford Area</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>105,000</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Hendricks Commercial Properties</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value>31.59</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>105,000</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/WisconsinStatelineIndustPrk-Beloit.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.994197,42.49747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2498 Capital Circle Dr</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: <br>Submarket: Rockford Area<br>Size (SF): 100,000<br>Type: Speculative<br>User Name: <br>Developer/Owner: Capital Circle<br>Start Date: Q2 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: <br>Avail (SF): 100,000<br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value/>
+          </Data>
+          <Data name="Submarket">
+            <value>Rockford Area</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>100,000</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Capital Circle</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value/>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>100,000</value>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.955448,42.675932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17415 Davey Rd</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: Katherine's Crossing<br>Submarket: I-55 Corridor<br>Size (SF): 84,675<br>Type: Speculative<br>User Name: <br>Developer/Owner: Lakeview Realty Investors<br>Start Date: Q3 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: 7.2<br>Avail (SF): 84,675<br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value><![CDATA[Katherine's Crossing]]></value>
+          </Data>
+          <Data name="Submarket">
+            <value>I-55 Corridor</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>84,675</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Lakeview Realty Investors</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q3 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value>7.2</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>84,675</value>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.044416,41.68349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4400 W 35th Pl</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: <br>Submarket: Chicago South<br>Size (SF): 79,206<br>Type: Building addition<br>User Name: BWAY Corporation<br>Developer/Owner: CenterPoint Properties<br>Start Date: Q3 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: 8.5<br>Avail (SF): <br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value/>
+          </Data>
+          <Data name="Submarket">
+            <value>Chicago South</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>79,206</value>
+          </Data>
+          <Data name="Type">
+            <value>Building addition</value>
+          </Data>
+          <Data name="User Name">
+            <value>BWAY Corporation</value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>CenterPoint Properties</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q3 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value>8.5</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value/>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.737103,41.831156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>260 Madsen Dr</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: Bloomingdale Corporate Center<br>Submarket: Central DuPage<br>Size (SF): 70,650<br>Type: Speculative<br>User Name: <br>Developer/Owner: IDI Gazeley<br>Start Date: Q2 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: 4.95<br>Avail (SF): 70,650<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/260Madsen-Bloomingdale.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Bloomingdale Corporate Center</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Central DuPage</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>70,650</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>IDI Gazeley</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value>4.95</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>70,650</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/260Madsen-Bloomingdale.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.135786,41.944388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>335 Miles Pky</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: Blue Heron Business Park<br>Submarket: Northwest Suburbs<br>Size (SF): 67,080<br>Type: Build-to-suit<br>User Name: Traffic Control &amp; Protection<br>Developer/Owner: Meridian Design Build<br>Start Date: Q3 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: 9.5<br>Avail (SF): 67,080<br>Brochure: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Blue Heron Business Park</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Northwest Suburbs</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>67,080</value>
+          </Data>
+          <Data name="Type">
+            <value>Build-to-suit</value>
+          </Data>
+          <Data name="User Name">
+            <value><![CDATA[Traffic Control &amp; Protection]]></value>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>Meridian Design Build</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q3 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value>9.5</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>67,080</value>
+          </Data>
+          <Data name="Brochure">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.267309,42.002036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>255 Madsen Dr</name>
+        <description><![CDATA[description: <br>Status: Completed Q4 2016<br>Business Park: Bloomingdale Corporate Center<br>Submarket: Central DuPage<br>Size (SF): 51,600<br>Type: Speculative<br>User Name: <br>Developer/Owner: IDI Gazeley<br>Start Date: Q2 2016<br>Scheduled  End Date: Q4 2016<br>Land Area: 4.48<br>Avail (SF): 51,600<br>Brochure: http://property.colliersbk.com/IndustrialConstruction/Brochures/255Madsen-Bloomingdale.pdf]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Status">
+            <value>Completed Q4 2016</value>
+          </Data>
+          <Data name="Business Park">
+            <value>Bloomingdale Corporate Center</value>
+          </Data>
+          <Data name="Submarket">
+            <value>Central DuPage</value>
+          </Data>
+          <Data name="Size (SF)">
+            <value>51,600</value>
+          </Data>
+          <Data name="Type">
+            <value>Speculative</value>
+          </Data>
+          <Data name="User Name">
+            <value/>
+          </Data>
+          <Data name="Developer/Owner">
+            <value>IDI Gazeley</value>
+          </Data>
+          <Data name="Start Date">
+            <value>Q2 2016</value>
+          </Data>
+          <Data name="Scheduled  End Date">
+            <value>Q4 2016</value>
+          </Data>
+          <Data name="Land Area">
+            <value>4.48</value>
+          </Data>
+          <Data name="Avail (SF)">
+            <value>51,600</value>
+          </Data>
+          <Data name="Brochure">
+            <value>http://property.colliersbk.com/IndustrialConstruction/Brochures/255Madsen-Bloomingdale.pdf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.134931,41.943363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
